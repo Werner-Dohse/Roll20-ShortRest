@@ -1,6 +1,6 @@
 /* 
  * Version 1.00
- * Original By Unkown
+ * Original By Unknown (if you know please let me know)
  * Updated by Werner Dohse
  * Discord: Naudran#2980
  * Roll20: https://app.roll20.net/users/1062502/werner-d
