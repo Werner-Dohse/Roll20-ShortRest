@@ -1,3 +1,11 @@
+/* 
+ * Version 1.00
+ * Original By Unkown
+ * Updated by Werner Dohse
+ * Discord: Naudran#2980
+ * Roll20: https://app.roll20.net/users/1062502/werner-d
+ * Github: https://github.com/Werner-Dohse
+*/
 var ShortRest = ShortRest || (function() {
     'use strict';
 
